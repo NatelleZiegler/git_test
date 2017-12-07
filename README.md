@@ -1,1 +1,1 @@
-Sample file 
+This is NatelleZiegler's first git project!
